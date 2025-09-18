@@ -1,0 +1,6 @@
+Algorithm Performance (time in seconds)
+InputSize   Linear(O(n))   Bubble(O(n^2))   Binary(O(log n))
+10          0.000001       0.000003         0.000001
+100         0.000010       0.000100         0.000001
+1000        0.000200       0.010500         0.000002
+5000        0.001500       0.500000         0.000003
